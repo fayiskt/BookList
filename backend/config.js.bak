@@ -1,5 +1,0 @@
-export const PORT = 5555;
-
-//URL is removed
-export const mongDBURL = 'mongodb+srv://admin-:.qrcaqmc.mongodb.net/books-collection?retryWrites=true&w=majority';
-
